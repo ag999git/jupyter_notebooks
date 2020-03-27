@@ -1,7 +1,6 @@
 from telegram.ext import Updater, CommandHandler
-my_updater = Updater(token='1104497538:AAEbw1IiPegAxU8uWA_hTevmyPG01GncYLY', 
-                  use_context=True)
-
+# For token use your token
+my_updater = Updater(token='YOUR_TOKEN_HERE', use_context=True)
 my_dispatcher = my_updater.dispatcher
 
 
