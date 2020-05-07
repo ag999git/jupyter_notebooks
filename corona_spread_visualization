@@ -1,4 +1,6 @@
 #  Author:- Anurag Gupta # email:- 999.anuraggupta@gmail.com
+# This code and related article was published here:-
+# https://opensource.com/article/20/4/python-map-covid-19
 import pycountry
 import plotly.express as px
 import pandas as pd
