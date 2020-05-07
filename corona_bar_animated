@@ -1,5 +1,8 @@
-%matplotlib notebook
+%matplotlib notebook  ## Remove this line if not on Jupyter
 #  Author:- Anurag Gupta # email:- 999.anuraggupta@gmail.com
+# This code and related article was published here:-
+# https://opensource.com/article/20/4/python-data-covid-19
+# The article gives detailed explanation of how the script works
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
