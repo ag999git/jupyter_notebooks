@@ -1,5 +1,6 @@
 # Author:- Anurag Gupta  ## E-mail 999.anuraggupta@gmail.com
 # The script can be downloaded from:- 
+# https://github.com/ag999git/jupyter_notebooks/blob/master/anscombes_quartets
 import pandas as pd
 # ----- STEP 1:- Read the data set from Wikipedia page
 # You can see signature of pandas.read_html() at link in next line
