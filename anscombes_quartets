@@ -38,7 +38,7 @@ ax[1][0].scatter(df2.X3, df2.Y3, s = 200)
 ax[1][1].scatter(df2.X4, df2.Y4, s = 200) 
 
 # ----- STEP 4:- Plot the linear regression lines for the 4 plots
-# Use numpy.polyfir() method. Signature is at link on next line
+# Use numpy.polyfit() method. Signature is at link on next line
 # https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html
 import numpy as np
 # Use polyfit() to get slope and intercept
