@@ -38,7 +38,7 @@ fig = px.choropleth(data_frame = df1,
                     locations= "iso_alpha",
                     color= "Confirmed",  # value in column 'Confirmed' determines color
                     hover_name= "Country",
-                    color_continuous_scale= 'RdYlGn',  #  color scale red, yellow green
+                    color_continuous_scale= 'RdYlGn_R',  #  color scale red, yellow, green; scale reversed (green = good, red = bad) 
                     animation_frame= "Date")
 
 fig.show()
